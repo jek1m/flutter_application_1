@@ -30,7 +30,7 @@ class StorePage extends StatelessWidget {
                 child: Row(
                   children: [
                     Text(
-                      'Jieun',
+                      'Woman',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                       ),
